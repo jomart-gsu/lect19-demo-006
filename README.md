@@ -1,1 +1,1 @@
-This is the base README. Branch 2 is the superior branch.
+This is the base README. I love all my branches equally.
